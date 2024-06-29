@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 
 # Définir les dates de début et de fin
 start_date = datetime(2024, 6, 30)
-end_date = datetime(2024, 11, 30)
+end_date = datetime(2024, 12, 27)
 
 # Liste de messages de commit aléatoires
 commit_messages = [
