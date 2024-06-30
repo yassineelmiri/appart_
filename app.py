@@ -4,7 +4,7 @@ import subprocess
 from datetime import datetime, timedelta
 
 # Définir les dates de début et de fin
-start_date = datetime(2024, 12, 1)
+start_date = datetime(2024, 6, 30)
 end_date = datetime(2024, 11, 30)
 
 
